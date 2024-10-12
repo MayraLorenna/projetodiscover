@@ -19,7 +19,7 @@ Projeto desenvolvido a partir do curso Discovery da Rocketseat <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="/github/preview.png" width="100%">
+  <img alt="projeto DevLinks" src="/github/preview.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
